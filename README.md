@@ -28,3 +28,8 @@ Todas las prácticas de la asignatura.
 ### pdoo *(Programación y Diseño Orientado a Objetos)*
 
 Todas las prácticas de la asignatura.
+
+### wp2 *(Web Platform Development II)*
+
+Entregas de la asignatura *Web Platform Development II* de la GCU (aplicación web para entrenamientos semanales).
+El repositorio con el código se encuentra en: [Repositorio](https://github.com/diagmatrix/workout_app)

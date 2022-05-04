@@ -13,6 +13,10 @@ Prácticas de `sql`.
 
 Primeras dos prácticas de la asignatura (chatbot y agente).
 
+### ies *(Ingeniería, Empresa y Sociedad)*
+
+Apuntes de la asignatura.
+
 ### ig *(Informática Gráfica)*
 
 Primeras tres prácticas de la asignatura (hasta la creación del modelo jerárquico). Matrícula de honor en la asignatura.
